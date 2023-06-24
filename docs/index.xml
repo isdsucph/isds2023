@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intro to Social Data Science</title>
+    <link>https://isdsucph.github.io/isds2023/</link>
+    <description>Recent content on Intro to Social Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>felix.chopra@econ.ku.dk (Felix Chopra)</managingEditor>
+    <webMaster>felix.chopra@econ.ku.dk (Felix Chopra)</webMaster>
+    <lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://isdsucph.github.io/isds2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preparation</title>
+      <link>https://isdsucph.github.io/isds2023/post/preparation/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <author>felix.chopra@econ.ku.dk (Felix Chopra)</author>
+      <guid>https://isdsucph.github.io/isds2023/post/preparation/</guid>
+      <description>Guide to preparations It is necessary that you plan enough time to prepare for the course. We expect that, depending on your prior experience, you have spent up to 50 hours on learning basic Python and pandas before we begin teaching. In particular you should do the following (prioritized order):
+Install anaconda and other software
+Open the Assignment 0 notebook. See this guide on how to open and use a notebook</description>
+    </item>
+    
+    <item>
+      <title>Assignments</title>
+      <link>https://isdsucph.github.io/isds2023/post/assignment/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <author>felix.chopra@econ.ku.dk (Felix Chopra)</author>
+      <guid>https://isdsucph.github.io/isds2023/post/assignment/</guid>
+      <description>This post contain practical information related to each of the three assignments. Check back later for news about deadlines and other assignment related information. All assignments must be handed via Absalon here.
+Assignment 0: Available June 28. Deadline July 27 @ 12.00
+Assignment 1: Available August 2. Deadline August 4 @ 23.59
+Assignment 2: Available August 8. Deadline August 11 @ 23.59</description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>https://isdsucph.github.io/isds2023/post/install/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <author>felix.chopra@econ.ku.dk (Felix Chopra)</author>
+      <guid>https://isdsucph.github.io/isds2023/post/install/</guid>
+      <description>This class will involve a lot of coding, for which you will need some basic tools.
+Python, Jupyter Notebook and JupyterLab A git client A github account We will discuss these tools in much more detail in class, so don&amp;rsquo;t worry if this is all new and perhaps a bit frightening right now.
+Python, Jupyter Notebook and JupyterLab Python is a free programming language. We will use the distribution called Anaconda as it comes with the most essential for working with data, statistical computing and visualizations.</description>
+    </item>
+    
+    <item>
+      <title>Useful Jupyter tips</title>
+      <link>https://isdsucph.github.io/isds2023/post/jupyter/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <author>felix.chopra@econ.ku.dk (Felix Chopra)</author>
+      <guid>https://isdsucph.github.io/isds2023/post/jupyter/</guid>
+      <description>This post provides a short intro on picking up useful Jupyter hacks. We begin with a short overview of the most essential Jupyter shortcuts and skills. If you have not read the introduction to Jupyter you should do that immediately, see here.
+Keyboard short cuts Editing and executing cells
+enter edit mode: click inside the cell or press ENTR exit edit mode: click outside cell or press ESC. executing code within a cell is SHFT+ENTR or CTRL+ENTR (not the same!</description>
+    </item>
+    
+    <item>
+      <title>Exam project</title>
+      <link>https://isdsucph.github.io/isds2023/post/exam/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <author>felix.chopra@econ.ku.dk (Felix Chopra)</author>
+      <guid>https://isdsucph.github.io/isds2023/post/exam/</guid>
+      <description>When the teaching in our course finishes, you are to hand in a project. The formal requirements are found here along with details on grading. The exam period runs until August 23, 2023, at 10 AM.
+In this blog post we want to expand a little bit on how a good project will look. The goal of the project is to pose an interesting question and attempt to answer it by collecting publicly available data.</description>
+    </item>
+    
+    <item>
+      <title>Course readings</title>
+      <link>https://isdsucph.github.io/isds2023/page/readings/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <author>felix.chopra@econ.ku.dk (Felix Chopra)</author>
+      <guid>https://isdsucph.github.io/isds2023/page/readings/</guid>
+      <description>Textbook for general introduction to social data science:
+Big by Bit - Social research in the digital age by Matthew J. Salganik [BBB], free online version here. Textbooks for data science in Python
+Python for Data Analysis, 3rd ed. (2022) by Wes McKinney [PDA] Python Machine Learning, 3rd ed. (2019) by Sebastian Raschka &amp;amp; Vahid Mirjalili [PML] Preparation and Assignment 0 The course begins with your preparation for the teaching. This consists in Assignment 0 which is a learning module and assignment together.</description>
+    </item>
+    
+    <item>
+      <title>Practical info</title>
+      <link>https://isdsucph.github.io/isds2023/page/practical/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <author>felix.chopra@econ.ku.dk (Felix Chopra)</author>
+      <guid>https://isdsucph.github.io/isds2023/page/practical/</guid>
+      <description>This page contains information about the course groups as well as information on mandatory assignments and exam project.
+Place and time The course runs from July 31, 2023 to August 23. See timeplan for teaching schedule.
+All lectures and lab/exercise classes on campus will take place in CSS 35-01-05. Groups You have two options of being assigned to a group. The first is that you report the group to us and where all members consent.</description>
+    </item>
+    
+    <item>
+      <title>Timeplan</title>
+      <link>https://isdsucph.github.io/isds2023/backup/timeplan/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      <author>felix.chopra@econ.ku.dk (Felix Chopra)</author>
+      <guid>https://isdsucph.github.io/isds2023/backup/timeplan/</guid>
+      <description>This page contains a schedule of the teaching sessions. Most of the teaching will take place between July 31 and August 11, 2023, with additional supervision on August 15. Each day will generally contain one or two teaching sessions. Most sessions will follow the daily schedule below:
+Morning session (9-12): 9-10 Live lecture, 10-12 Notebook with integrated lecturing videos on technical aspects of the session + exercises Lunch break (12-13): Afternoon session (13-16): 13-14 Live lecture, 14-16 Notebook with integrated lecturing videos on technical aspects of the session + exercises Office hour, optional: 16-17 (booking system through Google Sheets, see link in the schedule below) The complete schedule of sessions is listed below with title, lecturer and links to material.</description>
+    </item>
+    
+    <item>
+      <title>Timeplan</title>
+      <link>https://isdsucph.github.io/isds2023/page/timeplan/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      <author>felix.chopra@econ.ku.dk (Felix Chopra)</author>
+      <guid>https://isdsucph.github.io/isds2023/page/timeplan/</guid>
+      <description>This page contains a schedule of the teaching sessions. Most of the teaching will take place between July 31 and August 11, 2023, with additional supervision on August 15. Each day will generally contain one or two teaching sessions. Most sessions will follow the daily schedule below:
+Morning session (9-12): 9-10 Live lecture, 10-12 Notebook with integrated lecturing videos on technical aspects of the session + exercises Lunch break (12-13): Afternoon session (13-16): 13-14 Live lecture, 14-16 Notebook with integrated lecturing videos on technical aspects of the session + exercises Office hour, optional: 16-17 (booking system through Google Sheets, see link in the schedule below) The complete schedule of sessions is listed below with title, lecturer and links to material.</description>
+    </item>
+    
+  </channel>
+</rss>

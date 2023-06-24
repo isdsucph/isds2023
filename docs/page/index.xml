@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Intro to Social Data Science</title>
+    <link>https://isdsucph.github.io/isds2023/page/</link>
+    <description>Recent content in Pages on Intro to Social Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>felix.chopra@econ.ku.dk (Felix Chopra)</managingEditor>
+    <webMaster>felix.chopra@econ.ku.dk (Felix Chopra)</webMaster>
+    <lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://isdsucph.github.io/isds2023/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course readings</title>
+      <link>https://isdsucph.github.io/isds2023/page/readings/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <author>felix.chopra@econ.ku.dk (Felix Chopra)</author>
+      <guid>https://isdsucph.github.io/isds2023/page/readings/</guid>
+      <description>Textbook for general introduction to social data science:
+Big by Bit - Social research in the digital age by Matthew J. Salganik [BBB], free online version here. Textbooks for data science in Python
+Python for Data Analysis, 3rd ed. (2022) by Wes McKinney [PDA] Python Machine Learning, 3rd ed. (2019) by Sebastian Raschka &amp;amp; Vahid Mirjalili [PML] Preparation and Assignment 0 The course begins with your preparation for the teaching. This consists in Assignment 0 which is a learning module and assignment together.</description>
+    </item>
+    
+    <item>
+      <title>Practical info</title>
+      <link>https://isdsucph.github.io/isds2023/page/practical/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <author>felix.chopra@econ.ku.dk (Felix Chopra)</author>
+      <guid>https://isdsucph.github.io/isds2023/page/practical/</guid>
+      <description>This page contains information about the course groups as well as information on mandatory assignments and exam project.
+Place and time The course runs from July 31, 2023 to August 23. See timeplan for teaching schedule.
+All lectures and lab/exercise classes on campus will take place in CSS 35-01-05. Groups You have two options of being assigned to a group. The first is that you report the group to us and where all members consent.</description>
+    </item>
+    
+    <item>
+      <title>Timeplan</title>
+      <link>https://isdsucph.github.io/isds2023/page/timeplan/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      <author>felix.chopra@econ.ku.dk (Felix Chopra)</author>
+      <guid>https://isdsucph.github.io/isds2023/page/timeplan/</guid>
+      <description>This page contains a schedule of the teaching sessions. Most of the teaching will take place between July 31 and August 11, 2023, with additional supervision on August 15. Each day will generally contain one or two teaching sessions. Most sessions will follow the daily schedule below:
+Morning session (9-12): 9-10 Live lecture, 10-12 Notebook with integrated lecturing videos on technical aspects of the session + exercises Lunch break (12-13): Afternoon session (13-16): 13-14 Live lecture, 14-16 Notebook with integrated lecturing videos on technical aspects of the session + exercises Office hour, optional: 16-17 (booking system through Google Sheets, see link in the schedule below) The complete schedule of sessions is listed below with title, lecturer and links to material.</description>
+    </item>
+    
+  </channel>
+</rss>
