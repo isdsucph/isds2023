@@ -24,7 +24,7 @@ Materials will be added as the course progresses.
 | Date   |                          Time | Title                                                   |  Teachers   | Material   |
 | ------ | ----------------------------: | -------------------------------------------------------- | :---------: | :--------- |
 |        |                               | -------   Preparation  -------                           |             |         |
-| Jun 28 |                               | <font color="green">Assignment 0 posted</font>           |             |         |
+| Jun 28 |                               | <font color="green">Assignment 0 posted</font>           |             |  [nb](https://github.com/isdsucph/isds2023/blob/main/assignments/assignment0/assignment_0.ipynb)  |
 | Jul 27 |                         12:00 | <font color="red">Assignment 0 hand-in</font>            |             |         |
 |        |                               | ---------   Week 1  ---------                            |             |         |
 | Jul 31 |                          9-11 | 1a. Course welcome + intro to git and markdown           | FC          |         |
