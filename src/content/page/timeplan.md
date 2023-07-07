@@ -37,8 +37,8 @@ Materials will be added as the course progresses.
 | Aug 02 |                          9-12 | 5. Strings, Queries and APIs                             |  FC & TAs   |        |
 |        |                         13-16 | 6. Scraping 1                                            |  FC & TAs   |        |
 | Aug 03 |                          9-12 | 7. Scraping 2                                            |  FC & TAs   |        |
-|        |                         13:59 | <font color="red">Fill in supervision sheet</font>       |     --      |  [pdf](https://github.com/isdsucph/isds2023/blob/main/teaching_material/supervision/supervision_sheet_1.pdf)  |
-|        |                         14-16 | TA help + supervision `*`                                |     TAs     |   [pdf](https://github.com/isdsucph/isds2023/blob/main/teaching_material/supervision/supervision_sheet_1.pdf)  |
+|        |                         13:59 | <font color="red">Fill in supervision sheet</font>       |     --      |  [pdf](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/supervision/supervision_sheet_1.pdf)  |
+|        |                         14-16 | TA help + supervision `*`                                |     TAs     |   [pdf](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/supervision/supervision_sheet_1.pdf)  |
 | Aug 04 |                          9-11 | 9. Data Ethics                                           |     FC      |         |
 |        |                         14-16 | TA help + supervision `*`                                |     TAs     |         |
 | Aug 04 |                         23:59 | <font color="red">Assignment 1 hand-in</font>            |      -      |  [abs](https://absalon.ku.dk/courses/65412/assignments)   |
@@ -60,7 +60,7 @@ Materials will be added as the course progresses.
 |        |                         23:59 | <font color="red">Assignment 2 hand-in</font>            |             |  [abs](https://absalon.ku.dk/courses/65412/assignments)     |
 |        |                               | ---------   Week 3  ---------                            |             |          |
 | Aug 15 |                         10-12 | *Supervision 3* `*`                                      |      TAs    |           |                                                                              
-| Aug 15 |                         20:00 | <font color="red">Exam project description due</font>    |             |  [pdf](https://github.com/isdsucph/isds2023/blob/main/teaching_material/exam/project_description.pdf), [abs](https://absalon.ku.dk/courses/65412/assignments) |
+| Aug 15 |                         20:00 | <font color="red">Exam project description due</font>    |             |  [pdf](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/exam/project_description.pdf), [abs](https://absalon.ku.dk/courses/65412/assignments) |
 | Aug 23 |                         10:00 | <font color="red"> Hand-in Exam on Digital Exam </font>  |             |         | 
 
 `*` : optional participation
