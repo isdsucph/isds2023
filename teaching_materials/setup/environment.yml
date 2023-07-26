@@ -1,0 +1,24 @@
+name: isds
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - selenium
+  - matplotlib
+  - statsmodels
+  - scikit-learn
+  - scipy
+  - openpyxl
+  - xlrd
+  - jupyterlab
+  - notebook
+  - jupyter
+  - nbgrader
+  - pip
+  - nodejs
+  - seaborn
+  - tqdm
+  - nltk
