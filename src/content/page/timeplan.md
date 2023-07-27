@@ -38,14 +38,14 @@ Materials will be added as the course progresses.
 |        |                         13-16 | 6. Scraping 1                                            |  FC & TAs   |        |
 | Aug 03 |                          9-12 | 7. Scraping 2                                            |  FC & TAs   |        |
 |        |                         13:59 | <font color="red">Fill in supervision sheet</font>       |     --      | [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing), [pdf](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/supervision/supervision_sheet_1.pdf)  |
-|        |                         14-16 | TA help + supervision `*`                                |     TAs     | [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing),  [pdf](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/supervision/supervision_sheet_1.pdf)  |
-| Aug 04 |                          9-11 | 9. Data Ethics                                           |     FC      |        |
-|        |                         14-16 | TA help + supervision `*`                                |     TAs     | [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing)        |
+|        |                         14-16 | TA help + Supervision `*`                                |     TAs     | [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing),  [pdf](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/supervision/supervision_sheet_1.pdf)  |
+| Aug 04 |                         13-16 | Exam talk + TA help + Supervision                        |  FC & TAs   | [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing)       |
+|        |                         14-16 | TA help + Supervision `*`                                |     TAs     | [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing)        |
 | Aug 04 |                         23:59 | <font color="red">Assignment 1 hand-in</font>            |      -      |  [abs](https://absalon.ku.dk/courses/65412/assignments)   |
 |        |                               | ---------   Week 2  ---------                            |             |        |
 | Aug 07 |                          9-12 | 8. Scraping 3                                            |  FC & TAs   |        |
-|        |                         13-16 | Exam talk + TA help + Supervision                        |  FC & TAs   | [gs](https://docs.google.com/spreadsheets/d/1HLhM4IqjEeq8Z7gIc8YsgCJxRc8U7DJ1WX7xN7DAfrY/edit?usp=sharing)       |
-|        |                         16-17 | Office Hour                                              |     FC      | [gs](https://docs.google.com/spreadsheets/d/1RugKQKobPrSsaUeKQSCCydaVOU_bDUYRPt1UhWEj_DE/edit?usp=sharing) |
+|        |                         13-15 | 9. Data Ethics                                           |     FC      |        |
+|        |                         15-16 | Office Hour                                              |     FC      | [gs](https://docs.google.com/spreadsheets/d/1RugKQKobPrSsaUeKQSCCydaVOU_bDUYRPt1UhWEj_DE/edit?usp=sharing) |
 | Aug 08 |                          9-12 | 10. ML Introduction                                      |  FC & TAs   |        |
 |        |                         13-16 | 11. Regression and Regularization                        |  FC & TAs   |        |
 |        |                         23:59 | <font color="green">Assignment 2 posted</font>           |     --      |        |
