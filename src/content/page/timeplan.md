@@ -30,8 +30,8 @@ Materials will be added as the course progresses.
 | Jul 31 |                          9-11 | 1a. Course welcome + intro to SDS                        | FC          |  [pdf](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_1/lecture_1.pdf) |
 |        |                         11-12 | 1b. Meet group                                           | FC/TAs      |        |
 |        |                         13-16 | 2. Data Structuring 1                                    |  FC & TAs   |  [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_2/module_2_slides.ipynb)    ,                     [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_2/module_2_exercises.ipynb)  |
-| Aug 01 |                          9-12 | 3. Data Structuring 2                                    |  FC & TAs   |        |
-|        |                         13-16 | 4. Plotting                                              |  FC & TAs   |        |
+| Aug 01 |                          9-12 | 3. Data Structuring 2                                    |  FC & TAs   |  [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_3/module_3_slides.ipynb)    ,                     [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_3/module_3_exercises.ipynb) |
+|        |                         13-16 | 4. Plotting                                              |  FC & TAs   | [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_4/module_4_slides.ipynb)   ,  [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_4/module_4_exercises.ipynb) |
 |        |                         16-17 | Office Hour                                              |     FC      | [gs](https://docs.google.com/spreadsheets/d/1RugKQKobPrSsaUeKQSCCydaVOU_bDUYRPt1UhWEj_DE/edit?usp=sharing) |
 |        |                         23:59 | <font color="green">Assignment 1 posted</font>           |     --      |        |
 | Aug 02 |                          9-12 | 5. Strings, Queries and APIs                             |  FC & TAs   |        |
