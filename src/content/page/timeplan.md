@@ -33,7 +33,7 @@ Materials will be added as the course progresses.
 | Aug 01 |                          9-12 | 3. Data Structuring 2                                    |  FC & TAs   |  [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_3/module_3_slides.ipynb)    ,                     [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_3/module_3_exercises.ipynb) |
 |        |                         13-16 | 4. Plotting                                              |  FC & TAs   | [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_4/module_4_slides.ipynb)   ,  [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_4/module_4_exercises.ipynb) |
 |        |                         16-17 | Office Hour                                              |     FC      | [gs](https://docs.google.com/spreadsheets/d/1RugKQKobPrSsaUeKQSCCydaVOU_bDUYRPt1UhWEj_DE/edit?usp=sharing) |
-|        |                         23:59 | <font color="green">Assignment 1 posted</font>           |     --      |        |
+|        |                         23:59 | <font color="green">Assignment 1 posted</font>           |     --      | [nb](https://github.com/isdsucph/isds2023/blob/main/assignments/assignment1/assignment_1.ipynb)  |
 | Aug 02 |                          9-12 | 5. Strings, Queries and APIs                             |  FC & TAs   |        |
 |        |                         13-16 | 6. Scraping 1                                            |  FC & TAs   |        |
 | Aug 03 |                          9-12 | 7. Scraping 2                                            |  FC & TAs   |        |
