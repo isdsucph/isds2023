@@ -44,7 +44,7 @@ Materials will be added as the course progresses.
 | Aug 04 |                         23:59 | <font color="red">Assignment 1 hand-in</font>            |      -      |  [abs](https://absalon.ku.dk/courses/65412/assignments)   |
 |        |                               | ---------   Week 2  ---------                            |             |        |
 | Aug 07 |                          9-12 | 8. Scraping 3                                            |  FC & TAs   | [le](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_8/module_8_slides.ipynb),   [nb](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_8/module_8_exercises.ipynb) |
-|        |                         13-15 | 9. Data Ethics                                           |     FC      |        |
+|        |                         13-15 | 9. Data Ethics                                           |     FC      |  [pdf](https://github.com/isdsucph/isds2023/blob/main/teaching_materials/module_9/lecture_9.pdf) |
 |        |                         15-16 | Office Hour                                              |     FC      | [gs](https://docs.google.com/spreadsheets/d/1RugKQKobPrSsaUeKQSCCydaVOU_bDUYRPt1UhWEj_DE/edit?usp=sharing) |
 | Aug 08 |                          9-12 | 10. ML Introduction                                      |  FC & TAs   |        |
 |        |                         13-16 | 11. Regression and Regularization                        |  FC & TAs   |        |
